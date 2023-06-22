@@ -63,4 +63,4 @@ Technologies used in the project:
 *   Mongo DB
 
 <h2>PDF Link</h2>
-[https://drive.google.com/file/d/1v1qnDG9_BGXyjSrgCTRYFkSkjjRRMIYN/view](https://drive.google.com/file/d/1v1qnDG9_BGXyjSrgCTRYFkSkjjRRMIYN/view)
+https://drive.google.com/file/d/1v1qnDG9_BGXyjSrgCTRYFkSkjjRRMIYN/view
